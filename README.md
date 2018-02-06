@@ -4,6 +4,12 @@ Flappy Bird es un juego para móviles de 2013 desarrollado en Hanói por el desa
 
 El jugador controla un pájaro intentando volar entre filas de tuberías verdes sin tocarse con estas. La escena se va desplazando lateralmente. El desarrollador creó el juego en varios días utilizando como personaje central un pájaro que diseñó para otro juego cancelado en 2012.
 
+## Imágenes
+
+![alt text](Flappy1.png "El juego empieza aquí.")
+
+![alt text](Flappy2.png "El juego empieza aquí.")
+
 ## Éxito y cierre
 
 Este juego rápidamente empezó a acumular descargas hasta llegar a ser el más descargado en todas las tiendas de apps para sorpresa incluso de su creador. Este inesperado éxito fomentó la aparición de miles de imitadores. Tras el creciente éxito de Flappy Bird, el creador del juego, anunció en su cuenta de Twitter que eliminaría el juego, y el 9 de febrero de 2014 a las 17:00 (GMT) lo retiró del App Store y de Google Play.
